@@ -26,6 +26,8 @@ Note : Aplikasi ini akan terus saya update.<br>
 Jika ada pertanyaan bisa kontak aku di email ini <b>dzulfiekapratama26@gmail.com</b>
 </p>
 
+Donate for me : 
+https://saweria.co/Dzulfi
 
 ## License
 
