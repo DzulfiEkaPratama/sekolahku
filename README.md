@@ -17,7 +17,7 @@ Sekolahku adalah aplikasi manajemen sekolah berbasis website yang di bangun dan 
 * Run `php artisan storage:link` for create folder storage
 
 Note : Aplikasi ini akan terus saya update.<br>
-Jika ada pertanyaan bisa kontak aku di email ini <b>andridesmana29@outlook.com</b>
+Jika ada pertanyaan bisa kontak aku di email ini <b>dzulfiekapratama26@gmail.com</b>
 </p>
 
 
